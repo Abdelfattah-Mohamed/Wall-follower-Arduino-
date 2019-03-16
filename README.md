@@ -1,3 +1,3 @@
 # Wall-follower-Arduino-
 
-project for robote to wall follower and remove any boxes in it's way.
+project for a robot to wall follower and remove any boxes in its way.
